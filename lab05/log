@@ -1,0 +1,29 @@
+/home/tsounisa/lab05
+ls: cannot access 'do_something': No such file or directory
+log
+-bash: cd: too many arguments
+mkdir: cannot create directory ‘log’: File exists
+  File: log
+  Size: 169       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 1077522     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1083/tsounisa)   Gid: ( 1085/tsounisa)
+Access: 2024-12-19 12:59:32.495136259 +0200
+Modify: 2024-12-19 13:01:18.836248282 +0200
+Change: 2024-12-19 13:01:18.836248282 +0200
+ Birth: -
+  File: do_something
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 1077525     Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1083/tsounisa)   Gid: ( 1085/tsounisa)
+Access: 2024-12-19 13:01:18.836248282 +0200
+Modify: 2024-12-19 13:01:18.836248282 +0200
+Change: 2024-12-19 13:01:18.836248282 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+cp: cannot stat 'destination.txt': No such file or directory
+tar: Cowardly refusing to create an empty archive
+Try 'tar --help' or 'tar --usage' for more information.
+tar: archive.tar: Cannot read: Is a directory
+tar: At beginning of tape, quitting now
+tar: Error is not recoverable: exiting now
+archive.tar.gz: command not found
